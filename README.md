@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corey-recai" alt="corey-recai" /></a> </p>
 
-- 🔭 I’m currently working on [Node HTTP server](https://github.com/corey-recai/node-http-server)
+- 🔭 I’m currently working on a [Package Manager for Clear Linux](https://github.com/corey-recai/sys.utils)
 
 - 🌱 I’m currently learning **Rust, Vue.js & Neo4j**
 
