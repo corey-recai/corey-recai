@@ -37,33 +37,7 @@ After you run the command to begin the GPG key generation process, you will be p
 
 8. Your keys will now be generated and you will recieve and on-screen prompt to enter a passphrase to secure your keys. Enter the same secure passphrase in both fields and press confirm to complete the creation process.
 
-<style>
-    .bottom-nav {
-        display: flex; 
-        justify-content: space-between; 
-        border: 1px solid #373b42; 
-        border-radius: 1em; 
-        padding: 0.5em;
-    }
-    .nav-link{
-        border: 1px solid #373b42; 
-        border-radius: 1em; 
-        padding: 0.5em; 
-        width: 8em; 
-        height: 2.5em; 
-        background-color: #21262d;
-        cursor: pointer;
-        color: #fff;
-        align-content: center;
-        text-align: center; 
-    }
-
-    .nav-link:hover {
-        text-decoration: none;
-        color: #aeb4b9;
-    }
-</style>
-<div class="bottom-nav">
-  <a href="verifying-your-gpg-command-line-tools-installation.md" class="nav-link">Previous</a>
-  <a href="generating-a-gpg-subkey-for-signing-commits-and-tags.md" class="nav-link">Next</a>
+<div>
+  <a href="verifying-your-gpg-command-line-tools-installation.md">Previous</a>
+  <a href="generating-a-gpg-subkey-for-signing-commits-and-tags.md">Next</a>
 </div>

@@ -29,33 +29,7 @@ Copyright (C) 2024 g10 Code GmbH
 ...
 ```
 
-<style>
-    .bottom-nav {
-        display: flex; 
-        justify-content: space-between; 
-        border: 1px solid #373b42; 
-        border-radius: 1em; 
-        padding: 0.5em;
-    }
-    .nav-link{
-        border: 1px solid #373b42; 
-        border-radius: 1em; 
-        padding: 0.5em; 
-        width: 8em; 
-        height: 2.5em; 
-        background-color: #21262d;
-        cursor: pointer;
-        color: #fff;
-        align-content: center;
-        text-align: center; 
-    }
-
-    .nav-link:hover {
-        text-decoration: none;
-        color: #aeb4b9;
-    }
-</style>
-<div class="bottom-nav">
-  <a href="README.md" class="nav-link">Previous</a>
-  <a href="generating-new-gpg-keys.md" class="nav-link">Next</a>
+<div>
+  <a href="README.md">Previous</a>
+  <a href="generating-new-gpg-keys.md">Next</a>
 </div>

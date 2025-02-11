@@ -14,32 +14,6 @@ If you configured everything properly you will recieve a prompt to enter your pa
 Hi USERNAME! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
-<style>
-    .bottom-nav {
-        display: flex; 
-        justify-content: flex-start; 
-        border: 1px solid #373b42; 
-        border-radius: 1em; 
-        padding: 0.5em;
-    }
-    .nav-link{
-        border: 1px solid #373b42; 
-        border-radius: 1em; 
-        padding: 0.5em; 
-        width: 8em; 
-        height: 2.5em; 
-        background-color: #21262d;
-        cursor: pointer;
-        color: #fff;
-        align-content: center;
-        text-align: center; 
-    }
-
-    .nav-link:hover {
-        text-decoration: none;
-        color: #aeb4b9;
-    }
-</style>
-<div class="bottom-nav">
-  <a href="adding-a-new-ssh-key-to-your-github-account.md" class="nav-link">Previous</a>
+<div>
+  <a href="adding-a-new-ssh-key-to-your-github-account.md">Previous</a>
 </div>

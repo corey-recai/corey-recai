@@ -35,33 +35,7 @@ Add your GPG public key to GitHub by performing the following steps:
 
 7. If prompted, comfirm access to your GitHub Account.
 
-<style>
-    .bottom-nav {
-        display: flex; 
-        justify-content: space-between; 
-        border: 1px solid #373b42; 
-        border-radius: 1em; 
-        padding: 0.5em;
-    }
-    .nav-link{
-        border: 1px solid #373b42; 
-        border-radius: 1em; 
-        padding: 0.5em; 
-        width: 8em; 
-        height: 2.5em; 
-        background-color: #21262d;
-        cursor: pointer;
-        color: #fff;
-        align-content: center;
-        text-align: center; 
-    }
-
-    .nav-link:hover {
-        text-decoration: none;
-        color: #aeb4b9;
-    }
-</style>
-<div class="bottom-nav">
-  <a href="configuring-the-git-cli-to-sign-commits-and-tags.md" class="nav-link">Previous</a>
-  <a href="generating-a-gpg-subkey-for-ssh.md" class="nav-link">Next</a>
+<div>
+  <a href="configuring-the-git-cli-to-sign-commits-and-tags.md">Previous</a>
+  <a href="generating-a-gpg-subkey-for-ssh.md">Next</a>
 </div>
